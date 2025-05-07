@@ -10,6 +10,7 @@ Este repositorio contiene una colección de ejemplos prácticos escritos en dist
 <img src="./imagens/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="./imagens/php-original.svg" alt="PHP" width="40" height="40"/>
 <img src="./imagens/csharp-original.svg" alt="C#" width="40" height="40"/>
+<img src="./imagens/PowerShell.svg" alt='PS' width="40" height="40"/>
 </p>
 
 - Ejemplos en **JavaScript**, **Python**, **Java**, **PHP**, **C#**, entre otros.
