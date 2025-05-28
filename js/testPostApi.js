@@ -27,7 +27,7 @@ const clientSecret = '1234';
  * Url del backend al que accede para crear el token.
  * @type {string}
  */
-const URL = 'https://6xr4wcbh-8000.use2.devtunnels.ms';
+const URL = '6xr4wcbh-8000.use2.devtunnels.ms';
 
 /**
  * Credenciales codificadas en Base64 para la autenticación básica.
